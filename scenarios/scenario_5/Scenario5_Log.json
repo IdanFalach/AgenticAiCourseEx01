@@ -1,0 +1,46 @@
+{
+  "run_id": "bde3c6d1",
+  "session_id": "2nbbretc",
+  "scenario_id": "5",
+  "asked_at": "2026-11-14T13:29:21.579743+02:00",
+  "question": "What was your first job?",
+  "history": [],
+  "models": {
+    "actor": "gpt-5.4-mini",
+    "critic": "simulated"
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "candidate_answer": "My first job was as a **Software Developer at IBM**, which I started in **1995**. I worked there until **1997**, developing in **Java and Smalltalk** and also teaching IBM classes on Smalltalk and Object Technology across the UK and Europe.",
+      "evaluation": {
+        "is_acceptable": false,
+        "feedback": "Simulated rejection for control-flow testing."
+      },
+      "evaluation_source": "simulated",
+      "status": "rejected"
+    },
+    {
+      "attempt": 2,
+      "candidate_answer": "My first job was at **IBM**, where I worked as a **Software Developer** starting in **1995**.",
+      "evaluation": {
+        "is_acceptable": false,
+        "feedback": "Simulated rejection for control-flow testing."
+      },
+      "evaluation_source": "simulated",
+      "status": "rejected"
+    },
+    {
+      "attempt": 3,
+      "candidate_answer": "My first job was at **IBM**, where I worked as a **Software Developer** from **1995 to 1997**.",
+      "evaluation": {
+        "is_acceptable": false,
+        "feedback": "Simulated rejection for control-flow testing."
+      },
+      "evaluation_source": "simulated",
+      "status": "rejected"
+    }
+  ],
+  "status": "exhausted",
+  "displayed_output": "No answer was approved within the limit of three attempts. You can ask another question."
+}

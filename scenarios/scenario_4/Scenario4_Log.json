@@ -1,0 +1,35 @@
+{
+  "run_id": "5e20a0cb",
+  "session_id": "b38r83j2",
+  "scenario_id": "4",
+  "asked_at": "2026-11-14T13:26:10.397459+02:00",
+  "question": "What did you study, and at which university?",
+  "history": [],
+  "models": {
+    "actor": "gpt-5.4-mini",
+    "critic": "gpt-6.1-terra"
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "candidate_answer": "I studied Computer Science at Reichman University.",
+      "evaluation": {
+        "is_acceptable": false,
+        "feedback": "The claimed subject and university are unsupported. The background says Ed studied Physics at the University of Oxford; the answer should use those details."
+      },
+      "candidate_source": "injected_data",
+      "status": "rejected"
+    },
+    {
+      "attempt": 2,
+      "candidate_answer": "I studied Physics at the University of Oxford.",
+      "evaluation": {
+        "is_acceptable": true,
+        "feedback": "The answer directly addresses the question, and both the subject and university are supported by the background."
+      },
+      "status": "approved"
+    }
+  ],
+  "status": "approved",
+  "displayed_output": "I studied Physics at the University of Oxford."
+}

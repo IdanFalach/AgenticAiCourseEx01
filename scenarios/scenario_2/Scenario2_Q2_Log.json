@@ -1,0 +1,34 @@
+{
+  "run_id": "b23d0536",
+  "session_id": "b1xguwpg",
+  "scenario_id": "2",
+  "asked_at": "2026-11-14T12:39:09.556431+02:00",
+  "question": "How many developers did you lead there?",
+  "history": [
+    {
+      "role": "user",
+      "content": "Where did you work in 2012?"
+    },
+    {
+      "role": "assistant",
+      "content": "In 2012, I was at **JPMorgan** as a **Managing Director**. I was leading technology for the Credit Portfolio Group and Hedge Fund Credit in the Investment Bank, with responsibility for risk and exposure platforms."
+    }
+  ],
+  "models": {
+    "actor": "gpt-5.4-mini",
+    "critic": "gpt-6.1-terra"
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "candidate_answer": "I led a global team of **300 software developers** at JPMorgan.",
+      "evaluation": {
+        "is_acceptable": true,
+        "feedback": "The answer correctly identifies JPMorgan from the conversation context and states the supported team size."
+      },
+      "status": "approved"
+    }
+  ],
+  "status": "approved",
+  "displayed_output": "I led a global team of **300 software developers** at JPMorgan."
+}

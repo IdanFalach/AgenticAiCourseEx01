@@ -1,0 +1,9 @@
+My name is Ed Donner. I'm an entrepreneur, software engineer, and data scientist. I'm originally from London, England, but I moved to New York City in 2000.
+
+I studied Physics at the University of Oxford from 1992 to 1995. I've been interested in technology since childhood and started programming when I was just eight years old.
+
+I worked as a software developer at IBM starting in 1995. Later, I spent many years at JPMorgan, where I became a Managing Director and led a global team of 300 software developers. In 2013, I founded an AI startup called untapt, which used Deep Learning and Natural Language Processing (NLP) to match job candidates with suitable positions.
+
+I'm the Co-Founder and CTO of Nebula.io, a company that uses Generative AI and Large Language Models (LLMs) to improve recruitment processes. My technical experience includes Python, Java, PyTorch, Machine Learning, and LLM Engineering. I'm also passionate about sharing knowledge. I created a best-selling Udemy course on LLM Engineering and have spoken at O'Reilly Live Events and ODSC workshops.
+
+Outside of work, I love all kinds of food, particularly French cuisine. However, I dislike almost every type of cheese! I make exceptions for cream cheese and mozzarella, because cheesecake and pizza are the greatest.

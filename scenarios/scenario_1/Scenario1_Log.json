@@ -1,0 +1,25 @@
+{
+  "run_id": "8a9ece21",
+  "session_id": "vveys428",
+  "scenario_id": "1",
+  "asked_at": "2026-11-14T12:34:55.526607+02:00",
+  "question": "What did you study, and at which university?",
+  "history": [],
+  "models": {
+    "actor": "gpt-5.4-mini",
+    "critic": "gpt-6.1-terra"
+  },
+  "attempts": [
+    {
+      "attempt": 1,
+      "candidate_answer": "I studied **Physics** at the **University of Oxford**.",
+      "evaluation": {
+        "is_acceptable": true,
+        "feedback": "The answer directly addresses both parts of the question and is supported by the supplied education details."
+      },
+      "status": "approved"
+    }
+  ],
+  "status": "approved",
+  "displayed_output": "I studied **Physics** at the **University of Oxford**."
+}
