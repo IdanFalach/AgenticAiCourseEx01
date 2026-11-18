@@ -4,6 +4,10 @@
 
 דוח המטלה: [Report_Ex01_IdanFalach.pdf](Report_Ex01_IdanFalach.pdf)
 
+תוצאות חמשת התרחישים: [תיקיית scenarios](scenarios/), הכוללת צילומי מסך ויומני JSON לכל תרחיש.
+
+תרשים הארכיטקטורה: [architecture.png](architecture.png)
+
 ## דרישות
 
 - גרסת Python 3.12 ומעלה. ההרצה בוצעה עם Python 3.12.12.
