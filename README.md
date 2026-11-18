@@ -4,7 +4,7 @@
 
 דוח המטלה: [Report_Ex01_IdanFalach.pdf](Report_Ex01_IdanFalach.pdf)
 
-תוצאות חמשת התרחישים: [תיקיית scenarios](scenarios/), הכוללת צילומי מסך ויומני JSON לכל תרחיש.
+תוצאות חמשת התרחישים: [תיקיית scenarios](scenarios/), הכוללת צילומי מסך וקבצי לוג לכל תרחיש.
 
 תרשים הארכיטקטורה: [architecture.png](architecture.png)
 
